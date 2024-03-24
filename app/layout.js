@@ -9,9 +9,9 @@ import "./css/globals.scss";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Portfolio of Aman Chaudhary",
+  title: "Aman Chaudhary",
   description:
-    "This is the portfolio of Aman Chaudhary. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
+    "This portfolio belongs to Aman Chaudhary, a full-stack developer who possesses a strong enthusiasm for acquiring new knowledge and welcomes collaboration opportunities. Renowned for being a quick learner, I actively seek out fresh challenges to further develop my skills.",
 };
 
 export default function RootLayout({ children }) {

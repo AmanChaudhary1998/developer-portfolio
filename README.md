@@ -31,7 +31,6 @@
 - SKILLS
 - PROJECTS
 - EDUCATION
-- BLOG
 - CONTACTS
 
 ---
@@ -119,8 +118,6 @@ export const personalData = {
   resume: "...",
 };
 ```
-
-`devUsername` Used for fetching blog from `dev.to`.
 
 ---
 
